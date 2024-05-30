@@ -29,5 +29,6 @@
             - -oN to output our results to a scan.txt.
             - -A to run an aggressive scan and retrieve information about OS detection, version detection and script scanning. 
             - ![](<img/nmap 127.0.0.1.png>)
+            - use cat scan.txt to display the contents of your file for further analysis. 
 
  _Note_  - When the service "tcpwrapped" is displayed it means that the port is being controlled by a tcpwrapper which is a software solution that provides additionally firewall features. The tcp wrapper monitors all incoming packets and checks if the node is attempting to connect is authorized based on various criteria specified  
