@@ -15,4 +15,4 @@
 
 - Scanning on a target ip nmap 'targetip'
  -- Ex: nmap  172.0.0.1
-  - [img/nmap 127.0.0.1.png]
+  - ![alt text](<img/nmap 127.0.0.1.png>)
